@@ -1,0 +1,2 @@
+#DevOps, a portmanteau of Development and Operations, is a cultural and technical 
+#approach that aims to foster collaboration and communication between software development and IT operations teams
