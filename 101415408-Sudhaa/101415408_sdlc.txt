@@ -4,3 +4,7 @@
  • Promotes and fosters collaboration (essential for team projects)
  • Allows practice of the different stages of the SDLC (e.g. build, test, monitor)
  • Optimizes resource utliziation 
+
+ __________________________________________________________________________________________________________________
+
+ Written by: Sudhaa
