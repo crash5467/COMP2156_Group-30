@@ -7,3 +7,7 @@ To be more specific on the content covered, here are some topics included in the
 • Git Fundamentals
 • CI concepts 
 • Managing configurations across different environments
+
+___________________________________________________________________________________________________________________________________________
+
+Written by: Sudhaa
