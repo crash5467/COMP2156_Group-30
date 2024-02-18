@@ -1,2 +1,7 @@
- This file will contain information about COMP 2156
-DevOps course
+ABOUT COMP2156 DEVOPS COURSE:
+
+With regular, weekly classes, the Developer Operations course proves to be informative and enjoyable. 
+Professor Patel dedicates time and patience to help students understand content and develop practical skills.
+
+To be more specific on the content covered, here are some topics included in the course:
+•
