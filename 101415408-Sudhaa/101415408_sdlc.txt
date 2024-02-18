@@ -1,0 +1,10 @@
+ ABOUT THE IMPORTANCE OF LEARNING DEVOPS ENGINEERING IN SOFTWARE DEVELOPMENT LIFE CYCLE:
+
+ Learning DevOps Engineering is crucial for the following reasons:
+ • Promotes and fosters collaboration (essential for team projects)
+ • Allows practice of the different stages of the SDLC (e.g. build, test, monitor)
+ • Optimizes resource utliziation 
+
+ ___________________________________________________________________________________________________________________
+
+ Written by: Sudhaa
