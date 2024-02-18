@@ -2,4 +2,5 @@
 
  Learning DevOps Engineering is crucial for the following reasons:
  • Promotes and fosters collaboration (essential for team projects)
- • 
+ • Allows practice of the different stages of the SDLC (e.g. build, test, monitor)
+ • Optimizes resource utliziation 
