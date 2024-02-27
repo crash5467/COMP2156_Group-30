@@ -1,5 +1,5 @@
 
-# COMP2156_Group_Assigment
+# COMP2156_Group30_Assigment
 #### Group members:
 
 #### • Liam Crichton (Leader)
